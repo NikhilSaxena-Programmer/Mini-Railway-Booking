@@ -249,3 +249,35 @@ The core backend features have been implemented. Further testing, security harde
 ---
 
 **Developed as a Mini Railway Booking System project.**
+
+---
+
+## 13. Swagger API Screenshots
+
+Screenshots demonstrating the Mini Railway Booking System APIs using FastAPI Swagger UI.
+
+### Authentication APIs
+
+![Authentication](Screenshots/Authentication.png)
+
+### API Documentation Screenshots
+
+![Screenshot 1](Screenshots/Screenshot%202026-11-01%20175435.png)
+
+![Screenshot 2](Screenshots/Screenshot%202026-11-01%20175527.png)
+
+![Screenshot 3](Screenshots/Screenshot%202026-11-01%20175541.png)
+
+![Screenshot 4](Screenshots/Screenshot%202026-11-01%20175710.png)
+
+![Screenshot 5](Screenshots/Screenshot%202026-11-01%20175729.png)
+
+![Screenshot 6](Screenshots/Screenshot%202026-11-01%20175858.png)
+
+![Screenshot 7](Screenshots/Screenshot%202026-11-01%20175911.png)
+
+![Screenshot 8](Screenshots/Screenshot%202026-11-01%20175937.png)
+
+![Screenshot 9](Screenshots/Screenshot%202026-11-01%20175958.png)
+
+![Screenshot 10](Screenshots/Screenshot%202026-11-01%20180042.png)
